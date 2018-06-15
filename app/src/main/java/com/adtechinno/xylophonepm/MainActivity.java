@@ -1,4 +1,4 @@
-package com.londonappbrewery.xylophonepm;
+package com.adtechinno.xylophonepm;
 
 import android.media.AudioManager;
 import android.media.SoundPool;
@@ -8,7 +8,7 @@ import android.util.Log;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    
+
     // Helpful Constants
     private final int NR_OF_SIMULTANEOUS_SOUNDS = 7;
     private final float LEFT_VOLUME = 1.0f;
